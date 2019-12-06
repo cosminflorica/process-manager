@@ -1,0 +1,6 @@
+Executabil1.exe 1021 0 biblioteca1.dll biblioteca2.dll
+Executabil2.exe 554 0 biblioteca1.dll
+Executabil3.exe 893 1021 biblioteca3.dll
+Executabil4.exe 442 0 biblioteca2.dll biblioteca4.dll
+Executabil5.exe 784 1021 biblioteca5.dll
+Executabil6.exe 232 554
